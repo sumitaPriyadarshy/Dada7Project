@@ -12,3 +12,23 @@ services:
   packages:
   - name: Dada7Project
     version: "1.0"
+- serviceName: project.dada7.integrations:test2
+  packages:
+  - name: Dada7Project
+    version: "1.0"
+- serviceName: project.dada7.integrations:test3
+  packages:
+  - name: Dada7Project
+    version: "1.0"
+- serviceName: project.dada7.integrations:test4
+  packages:
+  - name: Dada7Project
+    version: "1.0"
+- serviceName: project.dada7.integrations:test5
+  packages:
+  - name: Dada7Project
+    version: "1.0"
+- serviceName: project.dada7.integrations:test6
+  packages:
+  - name: Dada7Project
+    version: "1.0"
